@@ -1,6 +1,5 @@
 ## Boas vindas ao meu perfil 👋
 
-<!--
 **Meu nome é Esmael Victor
 
 Here are some ideas to get you started:
@@ -11,4 +10,3 @@ Here are some ideas to get you started:
 - 📧 **Você pode entrar em contato comigo no email: 
 esmael1vic@gmail.com
 @Esmael_V1c
--->

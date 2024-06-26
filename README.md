@@ -6,5 +6,5 @@ Meu nome é Esmael Victor
 - ❗ Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ## Você pode entrar em contato comigo no email📧 
-esmael1vic@gmail.com
-@Esmael_V1c
+- esmael1vic@gmail.com
+- @Esmael_V1c
